@@ -3,15 +3,15 @@
     "name": "Hemanth chowdary",
     "occupation": "Web developer",
     "description": " we are the creators of modern world",
-    "image": "IMG-20201017-WA0016.jpg",
+    "image": "IMG_20200912_145506_975.jpg",
     "bio": "My name is Hemanth sai kumar , i am very stdious person ..",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "challapallihemanthsaikumar@gmail.com",
     "phone": "+919182662867",
     "address": {
       "street": "sri nagar colony",
-      "city": "spl",
-      "state": "ts",
+      "city": "Sathupally",
+      "state": "Telangana",
       "zip": "507303"
     },
     "website": "challapallihemanthsaikumar.ml",
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/challapallihemanthsai.kumar/",
         "className": "fa fa-facebook"
       },
       {
@@ -58,9 +58,9 @@
       },
       {
         "company": "Hemanth",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "title": "Developer",
+        "years": "2020 may",
+        "description": "Freelancer"
       }
     ],
     "skills": [
@@ -101,7 +101,7 @@
     "testimonials": [
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "padala kavitha"
+        "user": "Padala Kavitha"
       }
      
     ]
