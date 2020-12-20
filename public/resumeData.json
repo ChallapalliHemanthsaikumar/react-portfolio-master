@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Hemanth chowdary",
+    "occupation": "Head Instructor @CleverProgrammer",
+    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
+    "image": "",
+    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "challapallihemanthsaikumar@gmail.com",
+    "phone": "+919182662867",
+    "address": {
+      "street": "sri nagar",
+      "city": "spl",
+      "state": "ts",
+      "zip": "507303"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nazariy1995",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nazdumanskyy/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nazariy995",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "sathupally vidyalam",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "NazaWEb",
+        "title": "Founder / Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "sql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "network scanner",
+        "category": "hacking",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "reverse shell",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
