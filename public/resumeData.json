@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Hemanth chowdary",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "occupation": "Web developer",
+    "description": " we are the creators of modern world",
+    "image": "IMG-20201017-WA0016.jpg",
+    "bio": "My name is Hemanth sai kumar , i am very stdious person ..",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "challapallihemanthsaikumar@gmail.com",
     "phone": "+919182662867",
     "address": {
-      "street": "sri nagar",
+      "street": "sri nagar colony",
       "city": "spl",
       "state": "ts",
       "zip": "507303"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "challapallihemanthsaikumar.ml",
+    "resumedownload": "https://drive.google.com/file/d/1HukZcuh3eUt-_fxn3Grd4jAXvqNYzv9I/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/challapalli-hemanth-sai-kumar-7595931b0/",
         "className": "fa fa-linkedin"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/ChallapalliHemanthsaikumar",
         "className": "fa fa-github"
       }
     ]
@@ -57,7 +57,7 @@
         "description": ""
       },
       {
-        "company": "NazaWEb",
+        "company": "Hemanth",
         "title": "Founder / Developer",
         "years": "Jan 2019 - Present",
         "description": "Helping businesses showing their best selves to clients."
