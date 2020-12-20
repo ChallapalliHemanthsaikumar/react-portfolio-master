@@ -39,19 +39,14 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "sathupally vidyalam",
+        "school": "Samskruti college of engneering",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "2021",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
-      {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
-      },
+     
       {
         "company": "Hemanth",
         "title": "Developer",
