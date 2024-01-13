@@ -108,7 +108,7 @@
       {
         "title": "Skimlit NLP Project",
         "category": " NLP | LSTM | spaCy | Positional Embedding | Word Embedding",
-        "image": "skimlit.png",
+        "image": "Skimlit.png",
         "url": "https://github.com/ChallapalliHemanthsaikumar/skim_lit_nlp/",
         "description1":["Achieved notable success with the sixth model, incorporating positional embedding with both character and token embeddings, achieving a remarkable accuracy of 84.2% after six epochs."]
       },
