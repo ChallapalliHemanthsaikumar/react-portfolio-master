@@ -14,18 +14,15 @@ class Footer extends Component {
 
      <div className="row">
         <div className="twelve columns">
-           <ul className="social-links">
+           <ul className="social-links" style={{color:'white'}}>
               {networks}
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team </li>
+            <h3 style={{color:'white'}}><span> Thank You!</span> </h3>
            </ul>
 
-           <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
-           </ul>
+           
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>

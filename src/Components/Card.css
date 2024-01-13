@@ -1,0 +1,54 @@
+/* components/Card.css */
+
+.card {
+   
+    position: relative;
+    width: 300px;
+    border-radius: 15px;
+    height: 500px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    
+    border: 2px solid #c0c0c0;
+    background-repeat: repeat;
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/* Silver lining border color */
+  }
+  
+  .card-image {
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .card-content {
+    padding: 5px;
+  }
+  
+  h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: whitesmoke;
+  }
+  
+  p {
+    margin: 0px 0;
+    color: gray;
+  }
+  .category {
+    display: flex;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: whitesmoke;
+  }
+.desc {
+    color: white;
+    font-weight: lighter;
+}
+  

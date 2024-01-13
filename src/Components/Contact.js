@@ -16,7 +16,7 @@ const Contact = ({ data }) => {
     
 
     return (
-      <section id="contact">
+      <section id="contact" style={{backgroundColor:'#2B2B2B'}}>
 
          <div className="row section-head">
 

@@ -1,27 +1,23 @@
 {
   "main": {
-    "name": "Hemanth chowdary",
-    "occupation": "Web developer",
+    "name": "Hemanth Sai kumar Challapalli",
+    "occupation": "Data Scientist && Web developer",
     "description": " we are the creators of modern world",
     "image": "IMG_20200912_145506_975.jpg",
-    "bio": "My name is Hemanth sai kumar , i am very stdious person ..",
+    "bio": "As a data science graduate with a Master's in Data Science and a robust foundation in computer science, I am proficient in utilizing analytical tools, programming languages, and frameworks to extract valuable insights from data. I have hands-on experience in developing and implementing machine learning models within my projects. Additionally, I am skilled in data cleaning, wrangling, and adept at leveraging deep learning techniques for complex problem-solving.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "challapallihemanthsaikumar@gmail.com",
-    "phone": "+919182662867",
+    "phone": "+18566568253",
     "address": {
-      "street": "sri nagar colony",
-      "city": "Sathupally",
-      "state": "Telangana",
-      "zip": "507303"
+      "street": "Britton Place",
+      "city": "Voorhees",
+      "state": "New Jersey",
+      "zip": "08043"
     },
-    "website": "challapallihemanthsaikumar.ml",
-    "resumedownload": "https://drive.google.com/file/d/1HukZcuh3eUt-_fxn3Grd4jAXvqNYzv9I/view?usp=sharing",
+    
+    "resumedownload": "Hemanth.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/challapallihemanthsai.kumar/",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/challapalli-hemanth-sai-kumar-7595931b0/",
@@ -36,40 +32,56 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My Top Skills",
     "education": [
       {
-        "school": "Samskruti college of engneering",
+        "school": "Rowan University",
+        "degree": "Masters in Data Science",
+        "graduated": "2023",
+        "description": "GPA 3.6"
+      },
+      {
+        "school": "Jawaharlal Nehru Technological University",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "2021",
-        "description": "Graduated with Distinction"
+        "description": "GPA 3.8"
       }
     ],
     "work": [
      
       {
-        "company": "Hemanth",
-        "title": "Developer",
-        "years": "2020 may",
-        "description": "Freelancer"
+        "company": "NOVI-JS ENTERPRISE ",
+        "title": "CHROME EXTENSION DEVELOPER ",
+        "years": "DEC 2021 –FEB 2022",
+        "description": " Developed innovative Chrome Extensions, leveraging PHP, SQL, JavaScript, and other programming capabilities to enhance browser functionalities. Conducted rigorous testing of programs and databases, identifying, and resolving issues promptly to ensure the seamless operation of software applications.  Designed and implemented software applications for websites, aligning solutions with analyzed requirements and adhering to industry technical standards.  Applied a multi-faceted skill set in PHP, SQL, and JavaScript to create effective and efficient Chrome Extensions, meeting project deadlines and exceeding client expectations. "
+      },
+      {
+        "company": " SOFT STACK",
+        "title": "FULL STACK DEVELOPER",
+        "years": "FEB2021 –NOV 2021 ",
+        "description": " Spearheaded the development of a successful e-commerce website, managing end-to-end implementation in React and ensuring seamless integration of frontend and backend components. Utilized site analytics to define key success metrics, enhancing project planning and contributing to the creation of well-organized React requirements based on customer needs. Reviewed, debugged, and corrected code issues, demonstrating strong problem-solving skills and contributing to the continuous improvement of software implementations. Worked collaboratively on diverse customer projects, showcasing adaptability and flexibility in handling different requirements and project scopes. Conducted a comprehensive analysis of existing software implementations, identifying areas for enhancement and implementing strategic improvements to optimize performance. "
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
       {
         "name": "Python",
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "75%"
+        "name": "ReactJs",
+        "level": "100%"
       },
       {
-        "name": "JavaScript",
+        "name": "TensorFlow",
+        "level": "95%"
+      },
+      {
+        "name": "Tableau",
         "level": "100%"
+      },
+      {
+        "name": "Natural Language Processing",
+        "level": "75%"
       },
       {
         "name": "sql",
@@ -80,20 +92,39 @@
   "portfolio": {
     "projects": [
       {
-        "title": "network scanner",
-        "category": "hacking",
-        "image": "",
-        "url": "kkk"
+        "title": "Visualization Project on MC2",
+        "category": "Tabluea",
+        "image": "chart.svg",
+        "url": "https://challapallihemanthsaikumar.github.io/radial.github.io/",
+        "description1": [ "Utilized Tableau and D3.js for interactive and insightful data visualization.","Analyzed anomalies in waterway samples dataset & proposing changes in the sampling approach."," https://visual-wheat.vercel.app/ "]
+      },
+      {
+        "title": "Food Vision 101",
+        "category": "Food Vision | Python | TensorFlow | Computer Vision | Deep Learning",
+        "image": "food101_2.png",
+        "url": "https://github.com/ChallapalliHemanthsaikumar/food_vision_project",
+        "description1":["Leveraged the pretrained EfficientNetB0 model with pretrained weights to surpass the benchmarks set by the DeepFood paper.","Achieved an impressive accuracy of 80.1%, showcasing the effectiveness of the combined approach in enhancing food image recognition."]
+      },
+      {
+        "title": "Skimlit NLP Project",
+        "category": " NLP | LSTM | spaCy | Positional Embedding | Word Embedding",
+        "image": "skimlit.png",
+        "url": "https://github.com/ChallapalliHemanthsaikumar/skim_lit_nlp/",
+        "description1":["Achieved notable success with the sixth model, incorporating positional embedding with both character and token embeddings, achieving a remarkable accuracy of 84.2% after six epochs."]
+      },
+      {
+        "title": "Bitcoin Price Prediction",
+        "category": "Ensemble | Multivariate data | LSTM",
+        "image": "bitcoin.png",
+        "url": "https://github.com/ChallapalliHemanthsaikumar/time_series_forecasting_in_tensorflow",
+        "description1":["Developed a robust training mechanism for forecasting Bitcoin prices, demonstrating expertise in handling time-series data and updating models with new information.","Showcased a comprehensive understanding of model retraining with new data and the intricacies of forecasting in the dynamic realm of cryptocurrency prices."]
       }
      
     ]
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Padala Kavitha"
-      }
+      
      
     ]
   }

@@ -2,6 +2,15 @@ import React, { Component } from 'react';
 
 class About extends Component {
   render() {
+   const onButtonClick = () => {
+      const pdfUrl = "images/Hemanth.pdf";
+      const link = document.createElement("a");
+      link.href = pdfUrl;
+      link.download = "Hemanth.pdf"; // specify the filename
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+  };
 
     if(this.props.data){
       var name = this.props.data.name;
@@ -40,7 +49,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <button onClick={onButtonClick}><i className="fa fa-download"></i>Download Resume</button>
                   </p>
                </div>
             </div>

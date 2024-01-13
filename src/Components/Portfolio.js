@@ -1,39 +1,28 @@
 import React, { Component } from 'react';
+import Card from './Card';
 
 class Portfolio extends Component {
   render() {
 
-    if(this.props.data){
-      var projects = this.props.data.projects.map(function(projects){
-        var projectImage = 'images/portfolio/'+projects.image;
-        return <div key={projects.title} className="columns portfolio-item">
-           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
-               <img alt={projects.title} src={projectImage} />
-               <div className="overlay">
-                  <div className="portfolio-item-meta">
-                 <h5>{projects.title}</h5>
-                     <p>{projects.category}</p>
-                  </div>
-                </div>
-              <div className="link-icon"><i className="fa fa-link"></i></div>
-            </a>
-          </div>
-        </div>
-      })
-    }
+    
+    
 
     return (
-      <section id="portfolio">
+      <section id="portfolio" style={{backgroundColor:'#2B2B2B'}}>
 
-      <div className="row">
+      <div className="row" >
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works.</h1>
+            <h1 style={{color:'white',fontWeight:'bolder',fontSize:'large'}}>Projects</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                {projects}
+                {
+                  this.props.data?this.props.data.projects.map(
+                    card => { return (<Card  title={card.title} url={card.url} description={card.description1} imageUrl={ 'images/portfolio/'+card.image} category={card.category}/>)
+                    }
+                  ) : <div> </div>
+                }
             </div>
           </div>
       </div>
