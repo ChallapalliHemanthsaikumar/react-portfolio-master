@@ -118,6 +118,13 @@
         "image": "bitcoin.png",
         "url": "https://github.com/ChallapalliHemanthsaikumar/time_series_forecasting_in_tensorflow",
         "description1":["Developed a robust training mechanism for forecasting Bitcoin prices, demonstrating expertise in handling time-series data and updating models with new information.","Showcased a comprehensive understanding of model retraining with new data and the intricacies of forecasting in the dynamic realm of cryptocurrency prices."]
+      },{
+        "title": "Data Professional Survey Report",
+        "category":"Power BI | Advanced Excel| Power Query | Data Visualization | Data Analytics ",
+        "image": "power.png",
+        "url":"https://github.com/ChallapalliHemanthsaikumar/dataprofessionalsurveypowerbi",
+        "description1":["I successfully implemented a comprehensive Power BI visualization project, leveraging a dataset from a professional survey. Demonstrating a keen understanding of data analytics, I designed and developed an insightful dashboard report. My contributions included transforming raw data into visually compelling insights, enabling informed decision-making. This project showcased my proficiency in Power BI, data interpretation, and report creation, emphasizing my ability to translate complex information into actionable intelligence."]
+
       }
      
     ]
